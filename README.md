@@ -1,11 +1,9 @@
 # AndroidStudioTipsDCOnline
 
-⌥ ⇧ ⌘ ↑ ↓ ⌃ ⎋
-
 ### Plugins
 
-- Presentation Assistant
-- Key Promoter X
+- [Presentation Assistant](https://plugins.jetbrains.com/plugin/7345-presentation-assistant)
+- [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
 - Remember to disable any unused plugins
 
 ### Search
